@@ -19,4 +19,4 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
 Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
 
 ### Contacto
-Lorena Juárez: [Mi LinkedIn]www.linkedin.com/in/lorena-juárez-33a0a42b8)
+Lorena Juárez: [Mi LinkedIn](www.linkedin.com/in/lorena-juárez-33a0a42b8)
